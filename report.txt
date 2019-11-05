@@ -1,0 +1,6 @@
+Best L1 Regularization Lambda = 1862.1820132595262
+0.5 * Sum of Squared Errors (L1 Regularization) = 12547245.803998888
+0.5 * Mean of Sum of Squared Errors(L1 Regularization) = 144.2626709284149
+Best L2 Regularization Lambda = 97.01723378487254
+0.5 *  Sum of Squared Errors (L2 Regularization) = 12547029.611744152
+0.5 *  Mean of Sum of Squared Errors (L2 Regularization) = 144.26018524569304
